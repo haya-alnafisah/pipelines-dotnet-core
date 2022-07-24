@@ -27,4 +27,5 @@ phases:
 
 artifacts:
   files:
-  name: a.net-app-artifact
+    - helloworld.dll
+  name: hello-world-artifact
